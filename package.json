@@ -1,0 +1,22 @@
+{
+  "name": "phase6-app",
+  "version": "1.0.0",
+  "description": "Apple Screentime cannot be opened for a website for all the time (at least it does not work).",
+  "main": "index.js",
+  "scripts": {
+    "build": "nativefier https://lernen.phase-6.de -i ./resources/icon.png -n phase6 dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipparndt/phase6-app.git"
+  },
+  "author": "Philipp Arndt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philipparndt/phase6-app/issues"
+  },
+  "homepage": "https://github.com/philipparndt/phase6-app#readme",
+  "dependencies": {
+    "nativefier": "^43.0.0"
+  }
+}
