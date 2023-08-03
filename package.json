@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/philipparndt/phase6-app#readme",
   "dependencies": {
-    "nativefier": "^47.0.0"
+    "nativefier": "^51.0.0"
   }
 }
